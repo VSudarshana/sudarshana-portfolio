@@ -3,7 +3,7 @@ import project2 from "../assets/images/project2.png";
 import project3 from "../assets/images/project3.png";
 
 export const RESUME_LINK =
-  "https://drive.google.com/file/d/1Kc-GIVbFg7jnsSGZlI8plkuIwdDjBviD/view?usp=sharing";
+  "https://drive.google.com/file/d/1Ohw7cXiFM2bo120FkuGtfkg0xLXRTUFY/view?usp=sharing";
 
 export const projects = [
   {
