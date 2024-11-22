@@ -5,7 +5,7 @@ import project4 from "../assets/images/project4.png";
 import project5 from "../assets/images/project5.png";
 
 export const RESUME_LINK =
-  "https://drive.google.com/file/d/1Jx8SHwy_QAW8wAx4B-yq0GtJm6ffD673/view?usp=sharing";
+  "https://drive.google.com/file/d/1Iw9XgbsPf3WExJy_OfN1OGF2YSk0i0I-/view?usp=sharing";
 
 export const projects = [
   {
